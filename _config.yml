@@ -8,11 +8,11 @@
 # Site settings
 title: Sally Lawton
 description: > # this means to ignore newlines until "baseurl:"
-  Homepage of filmmaker Sally Lawton. 
+  Homepage of Detroit based filmmaker Sally Lawton. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-theme-color: "#E8EAF6" # theme color for meta tag in head & favicons
-ga-id: "UA-000000000-1" # Google Analytics ID
+url: "http://sallylawton.club" # the base hostname & protocol for your site
+theme-color: "#FFFFFF" # theme color for meta tag in head & favicons
+ga-id: "UA-71260883-2" # Google Analytics ID
 
 # Markdown settings
 markdown: kramdown
