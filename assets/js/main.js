@@ -1,5 +1,10 @@
 WebFont.load({
     google: {
-      families: ['Droid Sans', 'Droid Serif']
+      families: ['Noto Sans', 'Droid Serif']
     }
   });
+
+function navFunction() {
+    $("#nav-icon").toggleClass("fa-bars fa-times");
+    $("#mySidenav").toggleClass("menu-visible");
+};
